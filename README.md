@@ -6,6 +6,9 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Language-Csharp-C#" alt="Language" title="" /> <img src="https://img.shields.io/badge/LICENSE-MIT-yellow" alt="LICENSE" title="" /> <img src="https://img.shields.io/badge/Author-DanKe-blue" alt="Author" title="" /></p>
 
+
+<div align="center"><a href="./download.html"><h2>立刻前往下载</h2></a></div>
+
 #### DanKeTools的好处有哪些？
 
 - ### 简洁至上
