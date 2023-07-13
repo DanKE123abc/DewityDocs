@@ -1,9 +1,9 @@
 {
     "GitUrl": "https://github.com/DanKE123abc/DewityKit.git",
-    "PackagesUrl": "https://dkdk.eu.org/dewity/packages.json",
-    "LanzouUrl":"https://lanzou.dkdk.eu.org/api/?url=",
-    "UpdateUrl":"https://dkdk.eu.org/dewity/update.json",
-    "OldVersionUrl": "https://dkdk.eu.org/dewity/oldversion.json",
-    "NewsUrl": "https://dkdk.eu.org/dewity/news.json",
-    "ChatGPTUrl":"https://dkdk.eu.org"
+    "PackagesUrl": "https://dewity.dkdk.eu.org/api/packages.json",
+    "LanzouUrl": "https://lanzou.dkdk.eu.org/api/?url=",
+    "UpdateUrl": "https://dewity.dkdk.eu.org/api/update.json",
+    "OldVersionUrl": "https://dewity.dkdk.eu.org/api/oldversion.json",
+    "NewsUrl": "https://dewity.dkdk.eu.org/api/news.json",
+    "ChatGPTUrl": "https://dkdk.eu.org"
 }
