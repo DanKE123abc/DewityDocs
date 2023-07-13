@@ -3,5 +3,7 @@
     "PackagesUrl": "https://dkdk.eu.org/dewity/packages.json",
     "LanzouUrl":"https://lanzou.dkdk.eu.org/api/?url=",
     "UpdateUrl":"https://dkdk.eu.org/dewity/update.json",
-    "NewsUrl": "https://dkdk.eu.org/dewity/news.json"
+    "OldVersionUrl": "https://dkdk.eu.org/dewity/oldversion.json",
+    "NewsUrl": "https://dkdk.eu.org/dewity/news.json",
+    "ChatGPTUrl":"https://dkdk.eu.org"
 }
