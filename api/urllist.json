@@ -1,0 +1,7 @@
+{
+    "GitUrl": "https://github.com/DanKE123abc/DewityKit.git",
+    "PackagesUrl": "https://dkdk.eu.org/dewity/packages.json",
+    "LanzouUrl":"https://lanzou.dkdk.eu.org/api/?url=",
+    "UpdateUrl":"https://dkdk.eu.org/dewity/update.json",
+    "NewsUrl": "https://dkdk.eu.org/dewity/news.json"
+}

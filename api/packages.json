@@ -1,0 +1,34 @@
+{
+    "packages": [
+        {
+            "name": "LitJson for Unity",
+            "description": "轻量级Json解析库LitJson的Unity定制版",
+            "download_url": "https://wwpy.lanzoub.com/iLZ9D12b2nxi"
+        },
+        {
+            "name": "ToDo mini 汉化版",
+            "description": "待办事件清单ToDo mini 汉化版：汉化by 蛋壳",
+            "download_url": "https://wwpy.lanzoub.com/iKvly12b23je"
+        },
+        {
+            "name": "ToDo mini",
+            "description": "待办事件清单ToDo mini 英文版",
+            "download_url": "https://wwpy.lanzoub.com/ip8XI12b23mh"
+        },
+        {
+            "name": "Odin",
+            "description": "奥丁插件 Odin - Inspector and Serializer",
+            "download_url": "https://wwpy.lanzoub.com/i534q12b23wh"
+        },
+        {
+            "name": "SuperEditor",
+            "description": "Unity代码编辑器 —— 在Unity中编辑代码",
+            "download_url": "https://wwpy.lanzoub.com/iBy9h12b23gb"
+        },
+        {
+            "name": "JoysitckSE",
+            "description": "精简的虚拟摇杆，基于Dewity框架",
+            "download_url": "https://wwpy.lanzoub.com/i5X0112b2r8h"
+        }
+    ]
+}
