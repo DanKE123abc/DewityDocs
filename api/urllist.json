@@ -5,5 +5,5 @@
     "UpdateUrl": "https://dewity.dkdk.eu.org/api/update.json",
     "OldVersionUrl": "https://dewity.dkdk.eu.org/api/oldversion.json",
     "NewsUrl": "https://dewity.dkdk.eu.org/api/news.json",
-    "ChatGPTUrl": "https://api.chatanywhere.com.cn"
+    "ChatGPTUrl": "https://api.chatanywhere.cn/v1/chat/completions"
 }
