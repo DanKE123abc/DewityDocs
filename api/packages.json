@@ -17,7 +17,7 @@
         },
         {
             "name": "Odin",
-            "description": "奥丁插件 Odin - Inspector and Serializer",
+            "description": "奥丁插件 Odin 3.0.8.0 - Inspector and Serializer",
             "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/Odin.-.Inspector.and.Serializer.unitypackage"
         },
         {
@@ -29,6 +29,16 @@
             "name": "xNode",
             "description": "xNode编辑器扩展",
             "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/xNode.unitypackage"
+        },
+        {
+            "name": "Best HTTP",
+            "description": "网络库 Best HTTP v1.11.0",
+            "download_url": "hhttps://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/BestHTTP.unitypackage"
+        },
+        {
+            "name": "Best HTTP/2",
+            "description": "网络库 Best HTTP v2.0.5",
+            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/BestHTTP2.unitypackage"
         }
     ]
 }
