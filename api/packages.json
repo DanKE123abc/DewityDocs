@@ -33,7 +33,7 @@
         {
             "name": "Best HTTP",
             "description": "网络库 Best HTTP v1.11.0",
-            "download_url": "hhttps://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/BestHTTP.unitypackage"
+            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/BestHTTP.unitypackage"
         },
         {
             "name": "Best HTTP/2",
