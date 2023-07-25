@@ -37,8 +37,33 @@
         },
         {
             "name": "Best HTTP/2",
-            "description": "网络库 Best HTTP v2.0.5",
+            "description": "网络库 Best HTTP v2.2.0",
             "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/BestHTTP2.unitypackage"
+        },
+        {
+            "name": "Photon PUN+",
+            "description": "制作多人联机游戏的插件，支持PC端、手机端和网页端的Unity项目",
+            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/Photon.unitypackage"
+        },
+        {
+            "name": "Easy Save",
+            "description": "加密数据存储库",
+            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/EasySave.unitypackage"
+        },
+        {
+            "name": "DOTween Pro",
+            "description": "DOTween Pro v1.0.310 动画效果处理库",
+            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/DOTweenPro.unitypackage"
+        },
+        {
+            "name": "Obfuscator",
+            "description": "可以保护游戏代码和游戏资源，防止被逆向工程破解",
+            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/Obfuscator.unitypackage"
+        },
+        {
+            "name": "Anti-Cheat Toolkit",
+            "description": "Anti-Cheat Toolkit v2.2.4 保护游戏数据，免于被某些玩家作弊",
+            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/Anti-Cheat.unitypackage"
         }
     ]
 }
