@@ -31,6 +31,11 @@
             "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/xNode.unitypackage"
         },
         {
+            "name": "MessagePack",
+            "description": "MessagePack.Unity v2.5.124",
+            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/MessagePack.Unity.unitypackage"
+        },
+        {
             "name": "Best HTTP",
             "description": "网络库 Best HTTP v1.11.0",
             "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/BestHTTP.unitypackage"
