@@ -1,39 +1,9 @@
 {
     "packages": [
         {
-            "name": "LitJson for Unity",
-            "description": "轻量级Json解析库LitJson的Unity定制版",
-            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/LitJson_for_Unity.unitypackage"
-        },
-        {
-            "name": "ToDo mini 汉化版",
-            "description": "待办事件清单ToDo mini 汉化版：汉化by 蛋壳",
-            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/ToDo_mini_CN.unitypackage"
-        },
-        {
-            "name": "ToDo mini",
-            "description": "待办事件清单ToDo mini 英文版",
-            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/ToDo_mini.unitypackage"
-        },
-        {
-            "name": "Odin",
-            "description": "奥丁插件 Odin 3.0.8.0 - Inspector and Serializer",
-            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/Odin.-.Inspector.and.Serializer.unitypackage"
-        },
-        {
-            "name": "SuperEditor",
-            "description": "Unity代码编辑器 —— 在Unity中编辑代码",
-            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/SuperEditor.unitypackage"
-        },
-        {
-            "name": "xNode",
-            "description": "xNode编辑器扩展",
-            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/xNode.unitypackage"
-        },
-        {
-            "name": "MessagePack",
-            "description": "MessagePack.Unity v2.5.124",
-            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/MessagePack.Unity.unitypackage"
+            "name": "Anti-Cheat Toolkit",
+            "description": "Anti-Cheat Toolkit v2.2.4 保护游戏数据，免于被某些玩家作弊",
+            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/Anti-Cheat.unitypackage"
         },
         {
             "name": "Best HTTP",
@@ -46,9 +16,9 @@
             "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/BestHTTP2.unitypackage"
         },
         {
-            "name": "Photon PUN+",
-            "description": "制作多人联机游戏的插件，支持PC端、手机端和网页端的Unity项目",
-            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/Photon.unitypackage"
+            "name": "DOTween Pro",
+            "description": "DOTween Pro v1.0.310 动画效果处理库",
+            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/DOTweenPro.unitypackage"
         },
         {
             "name": "Easy Save",
@@ -56,9 +26,19 @@
             "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/EasySave.unitypackage"
         },
         {
-            "name": "DOTween Pro",
-            "description": "DOTween Pro v1.0.310 动画效果处理库",
-            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/DOTweenPro.unitypackage"
+            "name": "LitJson",
+            "description": "0.18.0 轻量级Json解析库LitJson原版",
+            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/LitJson.unitypackage"
+        },
+        {
+            "name": "LitJson for Unity",
+            "description": "0.18.0 轻量级Json解析库LitJson的Unity定制版",
+            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/LitJson_for_Unity.unitypackage"
+        },
+        {
+            "name": "MessagePack",
+            "description": "MessagePack.Unity v2.5.124",
+            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/MessagePack.Unity.unitypackage"
         },
         {
             "name": "Obfuscator",
@@ -66,9 +46,34 @@
             "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/Obfuscator.unitypackage"
         },
         {
-            "name": "Anti-Cheat Toolkit",
-            "description": "Anti-Cheat Toolkit v2.2.4 保护游戏数据，免于被某些玩家作弊",
-            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/Anti-Cheat.unitypackage"
+            "name": "Odin",
+            "description": "奥丁插件 Odin 3.0.8.0 - Inspector and Serializer",
+            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/Odin.-.Inspector.and.Serializer.unitypackage"
+        },
+        {
+            "name": "Photon PUN+",
+            "description": "制作多人联机游戏的插件，支持PC端、手机端和网页端的Unity项目",
+            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/Photon.unitypackage"
+        },
+        {
+            "name": "SuperEditor",
+            "description": "Unity代码编辑器 —— 在Unity中编辑代码",
+            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/SuperEditor.unitypackage"
+        },
+        {
+            "name": "ToDo mini",
+            "description": "待办事件清单ToDo mini 英文版",
+            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/ToDo_mini.unitypackage"
+        },
+        {
+            "name": "ToDo mini 汉化版",
+            "description": "待办事件清单ToDo mini 汉化版：汉化by 蛋壳",
+            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/ToDo_mini_CN.unitypackage"
+        },
+        {
+            "name": "xNode",
+            "description": "xNode编辑器扩展",
+            "download_url": "https://github.com/DanKE123abc/DanKE123abc/releases/download/UnityPackages/xNode.unitypackage"
         }
     ]
 }
